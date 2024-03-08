@@ -7,7 +7,7 @@ export default function About(){
     return (
         <div className={Styles.about}>
             <h1>Sobre o projeto</h1>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto libero sint inventore quo, ratione aliquid facilis quod enim, veritatis ex dolorum maxime? Nisi voluptates itaque hic! Soluta quisquam beatae mollitia.</p>
+            <p>A PokeNext fornece dados essenciais sobre Pokémon, como peso, altura, identificação única e habilidades especiais. Com essa API, você pode criar aplicativos ou ferramentas que explorem essas informações, seja para calcular estatísticas de batalha ou simplesmente aprender mais sobre os Pokémon.</p>
             <Image 
             src="/images/charizard.png" 
             width="300"
